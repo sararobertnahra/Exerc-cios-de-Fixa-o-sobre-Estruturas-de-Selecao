@@ -10,6 +10,6 @@ else: credito = saldomedio*0.5
 
 if credito != 0:
     print(f"\nComo seu saldo era de: {saldomedio}, seu credito sera de: {credito}")
-else: (f"\nComo seu saldo era de: {saldomedio}, voce nao tera nenhum credito")
+else: print (f"\nComo seu saldo era de: {saldomedio}, voce nao tera nenhum credito")
 
 print("\n")
